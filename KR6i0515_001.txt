@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:25.850549
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:49
 #+TITLE: 佛說乳光佛經
 #+PROPERTY: CBETA_ID T17n0809
 #+PROPERTY: ID KR6i0515
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 809
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0515_T_000-0754b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0515_T_001-0754b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.809[No.808]¶
-
- 《佛說乳光佛經》¶
+No. 809 [No. 808]¶
+《佛說乳光佛經》¶
 ¶
 西晉月氏三藏竺法護譯¶
 
@@ -152,9 +151,9 @@ No.809[No.808]¶
 　佛尊天人師，
 　常慈心憂念，¶
 　蜎飛蠕動類，
-　皆欲令度脫。」
+　皆欲令度脫。」」
 #+END_VERSE
-」¶
+¶
 
 爾時犢母即為天帝釋說偈言：¶
 
@@ -166,9 +165,9 @@ No.809[No.808]¶
 　當持遺我子，
 　朝來未得飲，¶
 　雖知有福多，
-　作意當平等。」
+　作意當平等。」」
 #+END_VERSE
-」¶
+¶
 
 於是犢子便為母說偈言：¶
 
@@ -201,9 +200,9 @@ No.809[No.808]¶
 　持我所飲乳，
 　盡與滿鉢去，¶
 　令我後智慧，
-　得道願如佛。」
+　得道願如佛。」」
 #+END_VERSE
-」¶
+¶
 
 時天帝釋即為阿難取牛乳湩，得滿鉢去。阿¶
 難得乳，意甚歡喜。
